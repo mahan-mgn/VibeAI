@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Weightless",
+    "artist": "Marconi Union",
+    "genre": "Ambient",
+    "mood": "calm",
+    "energy": "low",
+    "activity_tags": ["resting"]
+  },
+  {
+    "title": "Clair de Lune",
+    "artist": "Claude Debussy",
+    "genre": "Classical",
+    "mood": "calm",
+    "energy": "low",
+    "activity_tags": ["studying", "resting"]
+  },
+  {
+    "title": "River Flows in You",
+    "artist": "Yiruma",
+    "genre": "Classical",
+    "mood": "sad",
+    "energy": "low",
+    "activity_tags": ["studying", "resting"]
+  },
+  {
+    "title": "Night Owl",
+    "artist": "Galimatias",
+    "genre": "Lo-Fi",
+    "mood": "tired",
+    "energy": "low",
+    "activity_tags": ["coding", "resting"]
+  },
+  {
+    "title": "Lofi Study Beats",
+    "artist": "Chillhop Music",
+    "genre": "Lo-Fi",
+    "mood": "calm",
+    "energy": "low",
+    "activity_tags": ["coding", "studying"]
+  },
+  {
+    "title": "Sunset Lover",
+    "artist": "Petit Biscuit",
+    "genre": "Electronic",
+    "mood": "happy",
+    "energy": "medium",
+    "activity_tags": ["resting", "general"]
+  },
+  {
+    "title": "Good Days",
+    "artist": "SZA",
+    "genre": "R&B",
+    "mood": "calm",
+    "energy": "medium",
+    "activity_tags": ["general", "resting"]
+  },
+  {
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "genre": "Pop",
+    "mood": "happy",
+    "energy": "high",
+    "activity_tags": ["general", "exercise"]
+  },
+  {
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "genre": "Pop",
+    "mood": "excited",
+    "energy": "high",
+    "activity_tags": ["exercise", "general"]
+  },
+  {
+    "title": "Stronger",
+    "artist": "Kanye West",
+    "genre": "Hip-Hop",
+    "mood": "excited",
+    "energy": "high",
+    "activity_tags": ["exercise"]
+  },
+  {
+    "title": "Titanium",
+    "artist": "David Guetta ft. Sia",
+    "genre": "EDM",
+    "mood": "excited",
+    "energy": "high",
+    "activity_tags": ["exercise"]
+  },
+  {
+    "title": "Animals",
+    "artist": "Martin Garrix",
+    "genre": "EDM",
+    "mood": "happy",
+    "energy": "high",
+    "activity_tags": ["exercise"]
+  },
+  {
+    "title": "Here Comes the Sun",
+    "artist": "The Beatles",
+    "genre": "Pop",
+    "mood": "happy",
+    "energy": "medium",
+    "activity_tags": ["general"]
+  },
+  {
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "genre": "Rock",
+    "mood": "sad",
+    "energy": "low",
+    "activity_tags": ["resting", "general"]
+  },
+  {
+    "title": "Breathe Me",
+    "artist": "Sia",
+    "genre": "Indie",
+    "mood": "anxious",
+    "energy": "low",
+    "activity_tags": ["resting"]
+  },
+  {
+    "title": "Weightless Pt. 2",
+    "artist": "Marconi Union",
+    "genre": "Ambient",
+    "mood": "stressed",
+    "energy": "low",
+    "activity_tags": ["resting", "studying"]
+  },
+  {
+    "title": "Intro",
+    "artist": "The xx",
+    "genre": "Indie",
+    "mood": "calm",
+    "energy": "medium",
+    "activity_tags": ["coding", "general"]
+  },
+  {
+    "title": "Strobe",
+    "artist": "deadmau5",
+    "genre": "Electronic",
+    "mood": "calm",
+    "energy": "medium",
+    "activity_tags": ["coding"]
+  },
+  {
+    "title": "Canon in D",
+    "artist": "Johann Pachelbel",
+    "genre": "Classical",
+    "mood": "calm",
+    "energy": "low",
+    "activity_tags": ["studying"]
+  },
+  {
+    "title": "Symphony No. 5",
+    "artist": "Ludwig van Beethoven",
+    "genre": "Classical",
+    "mood": "excited",
+    "energy": "medium",
+    "activity_tags": ["studying"]
+  },
+  {
+    "title": "Eye of the Tiger",
+    "artist": "Survivor",
+    "genre": "Rock",
+    "mood": "excited",
+    "energy": "high",
+    "activity_tags": ["exercise"]
+  },
+  {
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "genre": "Pop",
+    "mood": "happy",
+    "energy": "medium",
+    "activity_tags": ["general", "exercise"]
+  },
+  {
+    "title": "Bored",
+    "artist": "Billie Eilish",
+    "genre": "Pop",
+    "mood": "bored",
+    "energy": "low",
+    "activity_tags": ["general"]
+  },
+  {
+    "title": "Mad World",
+    "artist": "Gary Jules",
+    "genre": "Alternative",
+    "mood": "sad",
+    "energy": "low",
+    "activity_tags": ["resting"]
+  },
+  {
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "genre": "Pop",
+    "mood": "happy",
+    "energy": "high",
+    "activity_tags": ["general", "exercise"]
+  }
+]
